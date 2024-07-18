@@ -22,6 +22,6 @@ export default function Layout({ children }) {
 // Estilos para el contenedor de las pantallas
 const styles = StyleSheet.create({
   scrollContainer: {
-    flexWrog: 1,
+    flexGrow: 1,
   },
 });

@@ -1,0 +1,1 @@
+Proyecto para aprender react native usando expo
