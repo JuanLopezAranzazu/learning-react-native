@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "bio": "I am a web developer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "bio": "I am a web designer"
+    },
+    {
+      "id": 3,
+      "name": "Jim Doe",
+      "bio": "I am a web developer"
+    },
+    {
+      "id": 4,
+      "name": "Jill Doe",
+      "bio": "I am a web designer"
+    }
+  ]
+}

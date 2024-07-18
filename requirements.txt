@@ -1,0 +1,24 @@
+git clone
+
+npm i
+
+devDependencies
+
+
+dependencies
+
+/* Para correr el proyecto en la web */
+npx expo install react-dom react-native-web @expo/metro-runtime
+
+/* Para el manejo de las rutas */
+npx expo install react-native-gesture-handler react-native-reanimated
+
+/* Para la navegación */
+npm install @react-navigation/stack
+
+/* Para evitar que el contenido se oculte por la barra de estado */
+npm install react-native-safe-area-context
+
+/* Para instalar y configurar el lint */
+npx expo lint
+npx expo install -- --save-dev prettier eslint-config-prettier eslint-plugin-prettier
